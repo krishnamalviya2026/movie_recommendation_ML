@@ -43,7 +43,7 @@ project/
 The dataset is too large to upload on GitHub.
 
 👉 Download dataset from Google Drive:
-[https://drive.google.com/YOUR-LINK-HERE](https://drive.google.com/drive/folders/1teD8hRdyW6eBapKmhyZwMNuQtwNE5otF)
+(https://drive.google.com/drive/folders/1teD8hRdyW6eBapKmhyZwMNuQtwNE5otF)
 
 After downloading, place the dataset in the project folder before running the app.
 
@@ -60,6 +60,12 @@ movie_recommendation.ipynb
 ---
 
 ## 📸 Screenshots
+### Home Page
+![Home](output.png)
+
+### Recommendation Result
+![Result](result.png)
+
 
 
 
