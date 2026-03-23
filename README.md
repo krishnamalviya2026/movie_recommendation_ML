@@ -60,14 +60,12 @@ movie_recommendation.ipynb
 ---
 
 ## 📸 Screenshots
+
 ### Home Page
 ![Home](output.png)
 
 ### Recommendation Result
-![Result](result.png)
-
-
-
+![Result](Resultmovie.png)
 
 ---
 
